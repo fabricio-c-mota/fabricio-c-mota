@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&width=980&height=120&text=Fabr%C3%ADcio%20Mota&fontAlign=14&fontAlignY=33&color=0:0f172a,100:111827&fontColor=e5e7eb&fontSize=28&animation=twinkling" alt="Banner com ondas" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=65&text=Fabr%C3%ADcio%20Mota&fontAlign=13&fontAlignY=55&fontSize=34&fontColor=e5e7eb&animation=twinkling&color=0:00000000,100:00000000" alt="Nome piscando" />
 </p>
 
 **`Desenvolvedor Backend`**
